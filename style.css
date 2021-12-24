@@ -1,54 +1,66 @@
 .container {
 	padding: 20px;
-	max-width: 600px;
+	max-width: 700px;
 	margin: 0 auto;
+	font-family: Verdana;
 }
 
-.wrapper {
-	display: flex;
-	align-items: center;
+a:hover {
+	text-decoration: none;
 }
 
-header img {
-	width: 170px;
-	height: 170px;
-	border-radius: 50%;
-}
-
-h1 {
-	font-weight: bold;
-}
-
-header h3 {
-	color: #666666;
+ul {
+	list-style-type: square;
 }
 
 header {
 	background-color: whitesmoke; 
 }
 
-header ul {
+.wrapper {
+	display: flex;
+	align-items: center;
+	width: 700px;
+}
+
+header img {
+	width: 170px;
+	height: 170px;
+	border-radius: 50%;
+	border: solid 3px #666666;
+}
+
+.header-cv {
+	margin-left: 40px;
+}
+
+nav ul {
+	display: flex;
 	list-style-type: none;
 	margin-left: -40px;
 }
 
-.header-cv {
-	margin-left: 120px;
+nav ul li{
+	padding-right: 8px;
+}
+
+nav ul li a {
+	color: #666633;
+}
+
+header h3 {
+	color: #666666;
 }
 
 hr {
 	color: #666633;
-	width: 600px;
+	width: 700px;
 }
 
 h2 {
 	color: #666633;
 }
 
-footer img {
-	width: 100px;
-	margin-left: 480px;
-}
 footer {
 	display: flex;
 	justify-content: center;
@@ -56,10 +68,11 @@ footer {
 	background-color: whitesmoke;
 }
 
-.git {
-	color: #666666;
+footer img {
+	width: 100px;
+	margin-left: 570px;
 }
 
-ul {
-	list-style-type: square;
+.git {
+	color: #666666;
 }

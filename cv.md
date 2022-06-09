@@ -3,12 +3,10 @@
 ## Personal information
 **Name** Ekaterina Ryabova
 
-**Phone number (mobile)** +7 (953) 718-24-79
-
-**Email** katrin.ryabowa@yandex.ru
+**Email** katrin.ryabowa@gmail.com
 
 ## Education 
-Tambov State Technical University, Degree in Public relations. Specialization: WEB technologies in public relations 
+TSTU, Degree in Public relations. Specialization: WEB technologies in public relations 
 
 ### Qualifications 
 JS / Front-end courses in RS School, started in December 2021 up to present
